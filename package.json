@@ -1,7 +1,7 @@
 {
-	"name": "calculator-app",
+	"name": "react-starterkit",
 	"version": "1.0.0",
-	"description": "a clone of iphone calculator but with added features",
+	"description": "a starterkit for react development",
 	"main": "index.js",
 	"scripts": {
 		"start": "webpack-dev-server --open",
