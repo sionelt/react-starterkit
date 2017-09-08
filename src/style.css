@@ -5,15 +5,19 @@ body {
 }
 
 .container {
-  display: flex;
-  height: 100vh;
+	display: flex;
+	height: 100vh;
 	justify-content: center;
-  align-items: center;
+	align-items: center;
 }
 
 .innerContainer {
-	color: red;
+	color: #0066FF;
 	width: 60%;
 	height: 60%;
-	background-color: gray;
+  background-color: #BBB8B8;
+  border-radius: 6px;
+  text-align: center;
+  font-size: 120px;
+  font-family: Courier New, Courier, monospace;
 }
